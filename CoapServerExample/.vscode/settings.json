@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "devicetree.h": "c",
+        "kernel.h": "c"
+    },
+    "nrf-connect.debugging.bindings": {
+        "${workspaceFolder}/build": "Launch build"
+    },
+    "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.5.0}"
+}
